@@ -15,6 +15,6 @@ Simple script to be used with Google sheets to generate each person a secret san
    <img src="https://user-images.githubusercontent.com/5414980/32763275-8ee7461a-c8b3-11e7-9427-eb918e3ddbeb.png" width="400">
 
 
-3. Click the play button and everybody will get their Santa in their inbox!
+3. Click the play button and everybody will get their Santa in their inbox
 
    <img src="https://user-images.githubusercontent.com/5414980/32763276-8f03c5ec-c8b3-11e7-98fa-8ce127fbfa93.png" width="400">
