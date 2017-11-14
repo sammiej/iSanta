@@ -42,7 +42,7 @@ function randomizeNames(names, n) {
   for (var i=n-1; i>=0; i--) {
     do {
       var rand = Math.floor(Math.random() * n);    
-    } while (names[rand] == copyNames[i]);         
+    } while (names[rand] == copyNames[i]  && n != 1);         
     
     var temp = names[i];
     names[i] = names[rand];
