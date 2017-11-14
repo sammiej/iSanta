@@ -1,4 +1,4 @@
-# iSanta
+# Secret Santa Generator
 
 Simple script to be used with Google sheets to generate each person a secret santa and notify them by email. 
 
