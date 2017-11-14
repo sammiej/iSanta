@@ -5,7 +5,7 @@ Simple script to be used with Google sheets to generate each person a secret san
 
 
 ## Steps
-1. Fill out a new Google sheet like this
+1. Fill out a new Google sheet like this (only columns 1 & 2)
 
    <img src="https://user-images.githubusercontent.com/5414980/32763274-8eced9ea-c8b3-11e7-9539-73701742f9e2.png" width="400">
 
