@@ -27,7 +27,7 @@ function sendEmails() {
   }
   
   /** 
-    * Uncomment this to see the shuffler in action on the spreadsheet (but comment out lines 19-26 to avoid email spamming)
+    * Uncomment this to to see the shuffler in action (the 3rd column will be filled with each person's matched santa. but comment out lines 19-26 to avoid email spamming)
     *
   for (var i=2; i<=numRows+1; i++) {
     var cell = sheet.getRange(i, 3);
