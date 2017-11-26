@@ -36,13 +36,14 @@ function sendEmails() {
 }
 
 
-function randomizeNames(names, n) {
-  var copyNames = names.slice(0);            
-  
-  for (var i=n-1; i>=0; i--) {
+function randomizeNames(names, numPpl) {
+  var namesCopy = names.slice(0),
+      rand;
+
+  for (var i=numPpl-1; i>=0; i--) {
     do {
-      var rand = Math.floor(Math.random() * n);    
-    } while (names[rand] == copyNames[i]  && n != 1);         
+      rand = Math.floor(Math.random() * numPpl);    
+    } while (names[rand] == namesCopy[i]  && numPpl != 1);         
     
     var temp = names[i];
     names[i] = names[rand];
