@@ -1,6 +1,6 @@
 # Secret Santa Generator
 
-Simple script to be used with Google sheets to generate each person a secret santa and notify them by email. 
+Made this for Christmas 2017, our group of friends all wanted to participate but couldn't really meet up to draw names. Simple script to be used with Google sheets to generate each person a secret santa and notify them by email. 
 
 
 
