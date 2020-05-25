@@ -2,6 +2,7 @@
 
 Made this for Christmas 2017, our group of friends all wanted to participate but couldn't really meet up to draw names. Simple script to be used with Google sheets to generate each person a secret santa and notify them by email. 
 <br/>
+<br/>
 
 ## Steps
 1. Fill out a new Google sheet like this (only columns 1 & 2)
